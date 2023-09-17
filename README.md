@@ -10,6 +10,6 @@
 # How to commit
 ```
 git add . # or filename
-git add commit -m "Message To Write"
+git commit -m "Message To Write"
 git push
 ```
