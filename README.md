@@ -7,3 +7,9 @@
 - Model Inference Code (TODO Generate with Cropping).
 - after References there are images (latex)
 
+# How to commit
+
+git add . # or filename
+git add commit -m "Message To Write"
+git push
+
